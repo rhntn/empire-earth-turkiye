@@ -1,5 +1,3 @@
-<img width="1964" height="801" alt="ee1-3" src="https://github.com/user-attachments/assets/d5e5fde8-c370-4b07-b4db-38f4f3a20ec1" />
-
 <img width="1300" height="531" alt="ee-banner-opt" src="https://github.com/user-attachments/assets/91f5e148-82c5-4d87-921a-5c3fb071b92e" />
 
 
