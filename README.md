@@ -15,7 +15,15 @@ Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: 
 * [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
 * [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
+## NeoEE Hakkında
 
+Bu proje, Empire Earth topluluğu tarafından geliştirilen **NeoEE** ile uyumlu olacak şekilde hazırlanmıştır. NeoEE; modern işletim sistemleri için uyumluluk iyileştirmeleri, hata düzeltmeleri ve çeşitli oyun geliştirmeleri sağlayan bağımsız bir topluluk projesidir.
+
+En iyi deneyim için NeoEE'nin en güncel sürümünü kullanmanız önerilir.
+
+NeoEE hakkında daha fazla bilgi:
+- https://neoee.net/
+- https://github.com/NeoEE-Project/NeoEE
 
 --------------------------------------------------------------------------------------
 
@@ -34,3 +42,13 @@ A legally obtained copy of **Empire Earth: The Art of Conquest** is required to 
 
 * [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
 * [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+
+## About NeoEE
+
+This project is designed to be compatible with **NeoEE**, an independent community project for Empire Earth. NeoEE provides compatibility improvements for modern operating systems, bug fixes, and various gameplay enhancements.
+
+For the best experience, we recommend using the latest version of NeoEE.
+
+Learn more about NeoEE:
+- https://neoee.net/
+- https://github.com/NeoEE-Project/NeoEE
