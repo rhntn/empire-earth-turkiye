@@ -51,11 +51,11 @@ NeoEE hakkında daha fazla bilgi:
 
 ## About This Project
 
-**Empire Earth Türkiye** is an unofficial Turkish community edition of **Empire Earth: The Art of Conquest**, built on the **NeoEE Community Setup**. Its purpose is to provide a complete Turkish localization while preserving the original gameplay and improving compatibility with modern Windows systems.
+**Empire Earth Türkiye** is an unofficial Turkish community edition of **Empire Earth: The Art of Conquest**, built on the **Empire Earth Community** project and the **NeoEE Community Setup**. Its goal is to provide a complete Turkish localization while preserving the original gameplay and improving compatibility with modern Windows systems.
 
 A legitimate copy of **Empire Earth: The Art of Conquest** is required to use this project. No original game files or copyrighted assets are distributed with this repository.
 
-This project is **not affiliated with, endorsed by, or supported by Rebellion, NeoEE, Sierra Entertainment, or any other rights holder.**
+This project is **not affiliated with, endorsed by, or supported by Rebellion, the Empire Earth Community, NeoEE, Sierra Entertainment, or any other rights holder.**
 
 ### Official Resources
 
@@ -64,11 +64,6 @@ This project is **not affiliated with, endorsed by, or supported by Rebellion, N
 * 🎮 [Steam](https://store.steampowered.com/app/2555500/Empire_Earth_Gold_Edition/)
 * 🎮 [GOG](https://www.gog.com/game/empire_earth_gold_edition)
 
-* [NeoEE Official Website](https://neoee.net/)
-
 ---
 
 **Empire Earth** and all related trademarks, logos, and copyrighted materials are the property of their respective owners.
-
-
-* [NeoEE Official Website](https://neoee.net/)
