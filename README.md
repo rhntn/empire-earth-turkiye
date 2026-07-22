@@ -58,7 +58,7 @@ This project is **not affiliated with, endorsed by, or supported by Rebellion, t
 ### Official Resources  
 🌐 [Empire Earth Community Website](https://empireearth.eu/)  
 🌐 [NeoEE Official Website](https://neoee.net/)  
-🎮 [Steam](https://store.steampowered.com/app/2555500/Empire_Earth_Gold_Edition/)  
+🎮 [Steam](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)  
 🎮 [GOG](https://www.gog.com/game/empire_earth_gold_edition)  
 
 ---
