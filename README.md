@@ -35,7 +35,7 @@ Bu proje, **Empire Earth Community** projesi ve **NeoEE Community Setup** temel 
 
 Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, Empire Earth Türkiye’yi doğrudan kurarak modern Windows sistemleriyle uyumluluk iyileştirmelerinden, topluluk tarafından geliştirilen özelliklerden ve NeoEE topluluk sunucuları üzerinden sunulan çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
 
-Empire Earth Community ve NeoEE hakkında daha fazla bilgi;  
+### Empire Earth Community ve NeoEE hakkında daha fazla bilgi;  
 
 🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)  
 🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)  
