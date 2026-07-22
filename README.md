@@ -16,6 +16,24 @@ Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: 
 * [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
 * [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
+## Sistem Gereksinimleri
+
+Empire Earth Türkiye Topluluk Kurulumu için gereken minimum sistem gereksinimleri:
+
+* **İşletim sistemi:** Windows 7 SP1, Windows 8.1, Windows 10 veya Windows 11
+* **İşlemci:** x86 veya x64 uyumlu işlemci
+
+  * Windows 11 üzerinde ARM64 desteği
+* **Ekran kartı:** DirectX 7–12 uyumlu grafik işlemcisi
+* **Depolama alanı:**
+
+  * Kurulum sonrasında yaklaşık **600 MB**
+  * Kurulum işlemi sırasında en az **1 GB** boş alan
+* **Ekran çözünürlüğü:** 1024 × 768 veya üzeri
+* **Ses:** Çalışan bir ses çıkış aygıtı
+* **İnternet bağlantısı:** Kurulum sırasında oyun dilinin güncellenmesi ve gerekli bileşenlerin indirilmesi için gereklidir
+
+> **Not:** Çevrimiçi çok oyunculu özelliklerin ve NeoEE topluluk sunucularının kullanılabilmesi için internet bağlantısı gereklidir.
 
 ## NeoEE Hakkında
 
@@ -31,28 +49,26 @@ NeoEE hakkında daha fazla bilgi:
 --------------------------------------------------------------------------------------
 
 
-# Empire Earth Türkiye Edition
+## About This Project
 
-Empire Earth Türkiye is an independent, unofficial community edition built on **Empire Earth: The Art of Conquest** and **NeoEE**, combining a complete Turkish localization with NeoEE's modern system compatibility and community features in a single package, it has not been developed, endorsed, or approved by Rebellion, NeoEE, or any other rights holders.
+**Empire Earth Türkiye** is an unofficial Turkish community edition of **Empire Earth: The Art of Conquest**, built on the **NeoEE Community Setup**. Its purpose is to provide a complete Turkish localization while preserving the original gameplay and improving compatibility with modern Windows systems.
 
-The Empire Earth name, logo, artwork, and game content are the property of their respective rights holders.
+A legitimate copy of **Empire Earth: The Art of Conquest** is required to use this project. No original game files or copyrighted assets are distributed with this repository.
 
-The **GPL-3.0** license used in this repository applies only to the source code, scripts, configurations, documentation, and Turkish localization work created and owned by the project developers, the GPL-3.0 license does not grant any rights to third-party game files, software, trademarks, logos, or artwork.
+This project is **not affiliated with, endorsed by, or supported by Rebellion, NeoEE, Sierra Entertainment, or any other rights holder.**
 
-Third-party components used by this project remain subject to their own licenses and terms of use.
+### Official Resources
 
-A legally obtained copy of **Empire Earth: The Art of Conquest** is required to use this project, you can purchase the official version of the game from the following stores:
+* 🌐 [Empire Earth Community Website](https://empireearth.eu/)
+* 🌐 [NeoEE Official Website](https://neoee.net/)
+* 🎮 [Steam](https://store.steampowered.com/app/2555500/Empire_Earth_Gold_Edition/)
+* 🎮 [GOG](https://www.gog.com/game/empire_earth_gold_edition)
 
-* [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
-* [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+* [NeoEE Official Website](https://neoee.net/)
 
+---
 
-## About NeoEE
+**Empire Earth** and all related trademarks, logos, and copyrighted materials are the property of their respective owners.
 
-This project is **built on the NeoEE version** and already includes the required NeoEE components, a separate NeoEE installation is **not** required.
-
-If you own a legally obtained copy of **Empire Earth: The Art of Conquest**, you can install this project directly and benefit from NeoEE's modern system compatibility, gameplay improvements, and online multiplayer support through the NeoEE community servers.
-
-Learn more about NeoEE:
 
 * [NeoEE Official Website](https://neoee.net/)
