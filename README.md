@@ -1,5 +1,6 @@
 <img width="1301" height="531" alt="kapak (1)" src="https://github.com/user-attachments/assets/1b675805-024a-46cb-a713-2ad29dd29673" />
 
+
 # Empire Earth Türkiye Sürümü
 
 Empire Earth Türkiye, **Empire Earth: The Art of Conquest** ve **NeoEE** temel alınarak geliştirilen, Türkçe yerelleştirme, NeoEE'nin modern sistem uyumluluğu ve topluluk özelliklerini tek pakette sunan bağımsız ve gayriresmî bir topluluk sürümüdür, Rebellion, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
@@ -14,6 +15,7 @@ Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: 
 
 * [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
 * [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+
 
 ## NeoEE Hakkında
 
@@ -43,6 +45,7 @@ A legally obtained copy of **Empire Earth: The Art of Conquest** is required to 
 
 * [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
 * [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+
 
 ## About NeoEE
 
