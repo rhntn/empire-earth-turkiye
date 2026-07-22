@@ -2,7 +2,7 @@
 
 # Empire Earth Türkiye Sürümü
 
-Empire Earth Türkiye, topluluk tarafından hazırlanmış bağımsız ve gayriresmî bir projedir. Rebellion, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
+Empire Earth Türkiye, **Empire Earth: The Art of Conquest** ve **NeoEE** temel alınarak geliştirilen, Türkçe yerelleştirme, NeoEE'nin modern sistem uyumluluğu ve topluluk özelliklerini tek pakette sunan bağımsız ve gayriresmî bir topluluk sürümüdür, Rebellion, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
 
 Empire Earth adı, logosu, görselleri ve oyun içeriği ilgili hak sahiplerine aittir.
 
@@ -31,7 +31,7 @@ NeoEE hakkında daha fazla bilgi:
 
 # Empire Earth Türkiye Edition
 
-Empire Earth Türkiye is an independent, unofficial community project, it has not been developed, endorsed, or approved by Rebellion, NeoEE, or any other rights holders.
+Empire Earth Türkiye is an independent, unofficial community edition built on **Empire Earth: The Art of Conquest** and **NeoEE**, combining a complete Turkish localization with NeoEE's modern system compatibility and community features in a single package, it has not been developed, endorsed, or approved by Rebellion, NeoEE, or any other rights holders.
 
 The Empire Earth name, logo, artwork, and game content are the property of their respective rights holders.
 
