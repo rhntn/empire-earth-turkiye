@@ -17,13 +17,17 @@ Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: 
 
 ## NeoEE Hakkında
 
-Bu proje, Empire Earth topluluğu tarafından geliştirilen **NeoEE** ile uyumlu olacak şekilde hazırlanmıştır. NeoEE; modern işletim sistemleri için uyumluluk iyileştirmeleri, hata düzeltmeleri ve çeşitli oyun geliştirmeleri sağlayan bağımsız bir topluluk projesidir.
+Empire Earth Türkiye Sürümü, **NeoEE sürümü temel alınarak geliştirilmiştir** ve NeoEE ile birlikte çalışacak şekilde hazırlanmıştır.
 
-En iyi deneyim için NeoEE'nin en güncel sürümünü kullanmanız önerilir.
+NeoEE; Empire Earth için topluluk tarafından geliştirilen, çevrim içi çok oyunculu desteği, modern sistem uyumluluğunu ve çeşitli iyileştirmeleri sağlayan bağımsız bir projedir.
+
+Bu sürüm sayesinde **Empire Earth: The Art of Conquest**, NeoEE topluluk sunucuları üzerinden çevrim içi olarak oynanabilir.
 
 NeoEE hakkında daha fazla bilgi:
-- https://neoee.net/
-- https://github.com/NeoEE-Project/NeoEE
+
+* [NeoEE Resmî Web Sitesi](https://neoee.net/)
+* [NeoEE GitHub Deposu](https://github.com/NeoEE-Project/NeoEE)
+
 
 --------------------------------------------------------------------------------------
 
@@ -45,10 +49,13 @@ A legally obtained copy of **Empire Earth: The Art of Conquest** is required to 
 
 ## About NeoEE
 
-This project is designed to be compatible with **NeoEE**, an independent community project for Empire Earth. NeoEE provides compatibility improvements for modern operating systems, bug fixes, and various gameplay enhancements.
+Empire Earth Türkiye Edition was **developed based on the NeoEE version** and is designed to work with NeoEE.
 
-For the best experience, we recommend using the latest version of NeoEE.
+NeoEE is an independent community-developed project for Empire Earth that provides online multiplayer support, compatibility improvements for modern systems, and various enhancements.
+
+With this edition, **Empire Earth: The Art of Conquest** can be played online through the NeoEE community servers.
 
 Learn more about NeoEE:
-- https://neoee.net/
-- https://github.com/NeoEE-Project/NeoEE
+
+* [NeoEE Official Website](https://neoee.net/)
+* [NeoEE GitHub Repository](https://github.com/NeoEE-Project/NeoEE)
