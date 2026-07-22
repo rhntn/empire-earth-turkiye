@@ -10,8 +10,7 @@ Bu depoda kullanılan **GPL-3.0** lisansı yalnızca proje geliştiricilerinin h
 
 Projeyle birlikte kullanılan üçüncü taraf bileşenler kendi lisanslarına ve kullanım koşullarına tabidir.
 
-Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz:
-
+Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz;
 <img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) | <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG - Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
 ## Sistem Gereksinimleri
@@ -35,8 +34,7 @@ Bu proje, **Empire Earth Community** projesi ve **NeoEE Community Setup** temel 
 
 Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, Empire Earth Türkiye’yi doğrudan kurarak modern Windows sistemleriyle uyumluluk iyileştirmelerinden, topluluk tarafından geliştirilen özelliklerden ve NeoEE topluluk sunucuları üzerinden sunulan çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
 
-Empire Earth Community ve NeoEE hakkında daha fazla bilgi:
-
+Empire Earth Community ve NeoEE hakkında daha fazla bilgi;
 * 🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)
 * 🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)
 
@@ -51,7 +49,6 @@ A legitimate copy of **Empire Earth: The Art of Conquest** is required to use th
 This project is **not affiliated with, endorsed by, or supported by Rebellion, the Empire Earth Community, NeoEE, Sierra Entertainment, or any other rights holder.**
 
 ### Official Resources
-
 * 🌐 [Empire Earth Community Website](https://empireearth.eu/)
 * 🌐 [NeoEE Official Website](https://neoee.net/)
 * 🎮 [Steam](https://store.steampowered.com/app/2555500/Empire_Earth_Gold_Edition/)
