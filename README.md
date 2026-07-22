@@ -35,9 +35,9 @@ Bu proje, **Empire Earth Community** projesi ve **NeoEE Community Setup** temel 
 
 Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, Empire Earth Türkiye’yi doğrudan kurarak modern Windows sistemleriyle uyumluluk iyileştirmelerinden, topluluk tarafından geliştirilen özelliklerden ve NeoEE topluluk sunucuları üzerinden sunulan çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
 
-Empire Earth Community ve NeoEE hakkında daha fazla bilgi;
-* 🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)
-* 🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)
+Empire Earth Community ve NeoEE hakkında daha fazla bilgi;  
+🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)  
+🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)  
 
 --------------------------------------------------------------------------------------
 
@@ -49,11 +49,11 @@ A legitimate copy of **Empire Earth: The Art of Conquest** is required to use th
 
 This project is **not affiliated with, endorsed by, or supported by Rebellion, the Empire Earth Community, NeoEE, Sierra Entertainment, or any other rights holder.**
 
-### Official Resources
-* 🌐 [Empire Earth Community Website](https://empireearth.eu/)
-* 🌐 [NeoEE Official Website](https://neoee.net/)
-* 🎮 [Steam](https://store.steampowered.com/app/2555500/Empire_Earth_Gold_Edition/)
-* 🎮 [GOG](https://www.gog.com/game/empire_earth_gold_edition)
+### Official Resources  
+🌐 [Empire Earth Community Website](https://empireearth.eu/)  
+🌐 [NeoEE Official Website](https://neoee.net/)  
+🎮 [Steam](https://store.steampowered.com/app/2555500/Empire_Earth_Gold_Edition/)  
+🎮 [GOG](https://www.gog.com/game/empire_earth_gold_edition)  
 
 ---
 
