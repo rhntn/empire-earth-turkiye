@@ -1,3 +1,5 @@
+<img width="1301" height="531" alt="kapak (1)" src="https://github.com/user-attachments/assets/1b675805-024a-46cb-a713-2ad29dd29673" />
+
 # Empire Earth Türkiye Sürümü
 
 Empire Earth Türkiye, topluluk tarafından hazırlanmış bağımsız ve gayriresmî bir projedir. Rebellion, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
