@@ -13,8 +13,8 @@ Projeyle birlikte kullanılan üçüncü taraf bileşenler kendi lisanslarına v
 
 Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz:
 
-* [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
-* [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+* 🎮 [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)
+* 🎮 [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
 ## Sistem Gereksinimleri
 
@@ -35,16 +35,7 @@ Empire Earth Türkiye Topluluk Kurulumu için gereken minimum sistem gereksiniml
 
 > **Not:** Çevrimiçi çok oyunculu özelliklerin ve NeoEE topluluk sunucularının kullanılabilmesi için internet bağlantısı gereklidir.
 
-## NeoEE Hakkında
-
-Bu proje, **NeoEE** sürümü temel alınarak geliştirilmiştir ve gerekli NeoEE bileşenlerini içerir, ayrı bir NeoEE kurulumu yapmanız gerekmez.
-
-Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, bu projeyi doğrudan kurarak NeoEE'nin sunduğu modern sistem uyumluluğundan, iyileştirmelerden ve NeoEE topluluk sunucuları üzerinden çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
-
-NeoEE hakkında daha fazla bilgi:
-
-* [NeoEE Resmi Web Sitesi](https://neoee.net/)
-
+## Empire Earth Community ve NeoEE Hakkında
 
 Bu proje, **Empire Earth Community** projesi ve **NeoEE Community Setup** temel alınarak geliştirilmiştir, gerekli NeoEE bileşenleri kurulum paketine dahil olduğundan ayrıca bir NeoEE kurulumu yapmanız gerekmez.
 
@@ -52,7 +43,9 @@ Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sah
 
 Empire Earth Community ve NeoEE hakkında daha fazla bilgi:
 
-* [NeoEE Resmî Web Sitesi](https://neoee.net/)
+* 🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)
+
+* 🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)
 
 
 
