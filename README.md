@@ -1,6 +1,5 @@
 <img width="1301" height="531" alt="kapak (1)" src="https://github.com/user-attachments/assets/1b675805-024a-46cb-a713-2ad29dd29673" />
 
-
 # Empire Earth Türkiye Sürümü
 
 Empire Earth Türkiye, **Empire Earth: The Art of Conquest**, **Empire Earth Community** ve **NeoEE Community** temel alınarak geliştirilen, Türkçe yerelleştirmeyi, modern sistem uyumluluğunu, teknik iyileştirmeleri ve topluluk özelliklerini tek paket altında sunan bağımsız ve gayriresmî bir topluluk sürümüdür, Rebellion, Empire Earth Community, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
@@ -13,7 +12,7 @@ Projeyle birlikte kullanılan üçüncü taraf bileşenler kendi lisanslarına v
 
 Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz:
 
-<img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) | <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+<img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) | <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG - Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
 ## Sistem Gereksinimleri
 
@@ -21,17 +20,13 @@ Empire Earth Türkiye Topluluk Kurulumu için gereken minimum sistem gereksiniml
 
 * **İşletim sistemi:** Windows 7 SP1, Windows 8.1, Windows 10 veya Windows 11
 * **İşlemci:** x86 veya x64 uyumlu işlemci
-
-  * Windows 11 üzerinde ARM64 desteği
-* **Ekran kartı:** DirectX 7–12 uyumlu grafik işlemcisi
+* **Ekran kartı:** DirectX 7 veya 12 uyumlu grafik işlemcisi
 * **Depolama alanı:**
-
-  * Kurulum sonrasında yaklaşık **600 MB**
-  * Kurulum işlemi sırasında en az **1 GB** boş alan
-* **Ekran çözünürlüğü:** 1024 × 768 veya üzeri
+  * Kurulum sonrasında yaklaşık **1024 MB**
+  * Kurulum işlemi sırasında en az **2 GB** boş alan
+* **Ekran çözünürlüğü:** 1024×768 veya üzeri
 * **Ses:** Çalışan bir ses çıkış aygıtı
-* **İnternet bağlantısı:** Kurulum sırasında oyun dilinin güncellenmesi ve gerekli bileşenlerin indirilmesi için gereklidir
-
+* **İnternet bağlantısı:** Kurulum sırasında oyunun güncellenmesi ve gerekli bileşenlerin indirilmesi için gereklidir
 > **Not:** Çevrimiçi çok oyunculu özelliklerin ve NeoEE topluluk sunucularının kullanılabilmesi için internet bağlantısı gereklidir.
 
 ## Empire Earth Community ve NeoEE Hakkında
@@ -43,13 +38,9 @@ Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sah
 Empire Earth Community ve NeoEE hakkında daha fazla bilgi:
 
 * 🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)
-
 * 🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)
 
-
-
 --------------------------------------------------------------------------------------
-
 
 ## About This Project
 
