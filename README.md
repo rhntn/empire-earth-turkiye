@@ -13,8 +13,7 @@ Projeyle birlikte kullanılan üçüncü taraf bileşenler kendi lisanslarına v
 
 Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz:
 
-<img width="96" height="96" alt="steam-icon-14883" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" />
- [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) <img width="96" height="96" alt="icons8-gog-galaxy-96" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+<img width="96" height="48" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) | <img width="48" height="48" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG – Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
 ## Sistem Gereksinimleri
 
