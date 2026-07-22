@@ -11,7 +11,7 @@ Bu depoda kullanılan **GPL-3.0** lisansı yalnızca proje geliştiricilerinin h
 Projeyle birlikte kullanılan üçüncü taraf bileşenler kendi lisanslarına ve kullanım koşullarına tabidir.
 
 Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz;
-<p align="center"> <img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) | <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG - Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) </p>
+<img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/) | <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG - Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
 
 ## Sistem Gereksinimleri
 
