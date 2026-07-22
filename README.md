@@ -17,16 +17,13 @@ Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: 
 
 ## NeoEE Hakkında
 
-Empire Earth Türkiye Sürümü, **NeoEE sürümü temel alınarak geliştirilmiştir** ve NeoEE ile birlikte çalışacak şekilde hazırlanmıştır.
+Bu proje, **NeoEE** sürümü temel alınarak geliştirilmiştir ve gerekli NeoEE bileşenlerini içerir, ayrı bir NeoEE kurulumu yapmanız gerekmez.
 
-NeoEE; Empire Earth için topluluk tarafından geliştirilen, çevrim içi çok oyunculu desteği, modern sistem uyumluluğunu ve çeşitli iyileştirmeleri sağlayan bağımsız bir projedir.
-
-Bu sürüm sayesinde **Empire Earth: The Art of Conquest**, NeoEE topluluk sunucuları üzerinden çevrim içi olarak oynanabilir.
+Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, bu projeyi doğrudan kurarak NeoEE'nin sunduğu modern sistem uyumluluğundan, iyileştirmelerden ve NeoEE topluluk sunucuları üzerinden çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
 
 NeoEE hakkında daha fazla bilgi:
 
-* [NeoEE Resmî Web Sitesi](https://neoee.net/)
-* [NeoEE GitHub Deposu](https://github.com/NeoEE-Project/NeoEE)
+* [NeoEE Resmi Web Sitesi](https://neoee.net/)
 
 
 --------------------------------------------------------------------------------------
@@ -49,13 +46,10 @@ A legally obtained copy of **Empire Earth: The Art of Conquest** is required to 
 
 ## About NeoEE
 
-Empire Earth Türkiye Edition was **developed based on the NeoEE version** and is designed to work with NeoEE.
+This project is **built on the NeoEE version** and already includes the required NeoEE components, a separate NeoEE installation is **not** required.
 
-NeoEE is an independent community-developed project for Empire Earth that provides online multiplayer support, compatibility improvements for modern systems, and various enhancements.
-
-With this edition, **Empire Earth: The Art of Conquest** can be played online through the NeoEE community servers.
+If you own a legally obtained copy of **Empire Earth: The Art of Conquest**, you can install this project directly and benefit from NeoEE's modern system compatibility, gameplay improvements, and online multiplayer support through the NeoEE community servers.
 
 Learn more about NeoEE:
 
 * [NeoEE Official Website](https://neoee.net/)
-* [NeoEE GitHub Repository](https://github.com/NeoEE-Project/NeoEE)
