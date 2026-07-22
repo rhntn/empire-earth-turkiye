@@ -1,4 +1,4 @@
-<img width="1301" height="531" alt="kapak (1)" src="https://github.com/user-attachments/assets/1b675805-024a-46cb-a713-2ad29dd29673" />
+<img width="1964" height="801" alt="ee1-3" src="https://github.com/user-attachments/assets/d5e5fde8-c370-4b07-b4db-38f4f3a20ec1" />
 
 # Empire Earth Türkiye Sürümü
 
