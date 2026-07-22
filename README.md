@@ -3,7 +3,7 @@
 
 # Empire Earth Türkiye Sürümü
 
-Empire Earth Türkiye, **Empire Earth: The Art of Conquest** ve **NeoEE** temel alınarak geliştirilen, Türkçe yerelleştirme, NeoEE'nin modern sistem uyumluluğu ve topluluk özelliklerini tek pakette sunan bağımsız ve gayriresmî bir topluluk sürümüdür, Rebellion, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
+Empire Earth Türkiye, **Empire Earth: The Art of Conquest**, **Empire Earth Community** ve **NeoEE Community** temel alınarak geliştirilen, Türkçe yerelleştirmeyi, modern sistem uyumluluğunu, teknik iyileştirmeleri ve topluluk özelliklerini tek paket altında sunan bağımsız ve gayriresmî bir topluluk sürümüdür, Rebellion, Empire Earth Community, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
 
 Empire Earth adı, logosu, görselleri ve oyun içeriği ilgili hak sahiplerine aittir.
 
@@ -44,6 +44,16 @@ Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sah
 NeoEE hakkında daha fazla bilgi:
 
 * [NeoEE Resmi Web Sitesi](https://neoee.net/)
+
+
+Bu proje, **Empire Earth Community** projesi ve **NeoEE Community Setup** temel alınarak geliştirilmiştir, gerekli NeoEE bileşenleri kurulum paketine dahil olduğundan ayrıca bir NeoEE kurulumu yapmanız gerekmez.
+
+Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, Empire Earth Türkiye’yi doğrudan kurarak modern Windows sistemleriyle uyumluluk iyileştirmelerinden, topluluk tarafından geliştirilen özelliklerden ve NeoEE topluluk sunucuları üzerinden sunulan çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
+
+Empire Earth Community ve NeoEE hakkında daha fazla bilgi:
+
+* [NeoEE Resmî Web Sitesi](https://neoee.net/)
+
 
 
 --------------------------------------------------------------------------------------
