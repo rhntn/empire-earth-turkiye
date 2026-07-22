@@ -12,7 +12,8 @@ Projeyle birlikte kullanılan üçüncü taraf bileşenler kendi lisanslarına v
 
 Bu projenin kullanılabilmesi için yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyası gereklidir, oyunun yasal sürümünü aşağıdaki mağazalardan satın alabilirsiniz;  
 
-<img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)   |   <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG - Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)
+<img width="16" height="16" alt="Steam" src="https://github.com/user-attachments/assets/01ee6910-716c-4d07-b397-fac8d7a38287" /> [Steam - Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/)   |   <img width="16" height="16" alt="GOG" src="https://github.com/user-attachments/assets/a3d60a73-5ac4-49d4-9426-a2562a89ab89" /> [GOG - Empire Earth: Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition)  
+
 
 ## Sistem Gereksinimleri
 
@@ -28,19 +29,23 @@ Empire Earth Türkiye Topluluk Kurulumu için gereken minimum sistem gereksiniml
 * **Ses:** Çalışan bir ses çıkış aygıtı
 * **İnternet bağlantısı:** Kurulum sırasında oyunun güncellenmesi ve gerekli bileşenlerin indirilmesi için gereklidir
 > **Not:** Çevrimiçi çok oyunculu özelliklerin ve NeoEE topluluk sunucularının kullanılabilmesi için internet bağlantısı gereklidir.
+  
 
 ## Empire Earth Community ve NeoEE Hakkında
 
 Bu proje, **Empire Earth Community** projesi ve **NeoEE Community Setup** temel alınarak geliştirilmiştir, gerekli NeoEE bileşenleri kurulum paketine dahil olduğundan ayrıca bir NeoEE kurulumu yapmanız gerekmez.
 
-Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, Empire Earth Türkiye’yi doğrudan kurarak modern Windows sistemleriyle uyumluluk iyileştirmelerinden, topluluk tarafından geliştirilen özelliklerden ve NeoEE topluluk sunucuları üzerinden sunulan çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.
+Yasal olarak edinilmiş bir **Empire Earth: The Art of Conquest** kopyasına sahipseniz, Empire Earth Türkiye’yi doğrudan kurarak modern Windows sistemleriyle uyumluluk iyileştirmelerinden, topluluk tarafından geliştirilen özelliklerden ve NeoEE topluluk sunucuları üzerinden sunulan çevrimiçi çok oyunculu oyun desteğinden yararlanabilirsiniz.  
+
 
 ### Empire Earth Community ve NeoEE hakkında daha fazla bilgi
 
 🌐 [Empire Earth Community Web Sitesi](https://empireearth.eu/)  
-🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)  
+🌐 [NeoEE Resmî Web Sitesi](https://neoee.net/)   
 
---------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------   
+
 
 ## About This Project
 
