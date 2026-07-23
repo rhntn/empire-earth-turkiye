@@ -1,6 +1,5 @@
 <img width="1300" height="531" alt="ee-banner-opt" src="https://github.com/user-attachments/assets/91f5e148-82c5-4d87-921a-5c3fb071b92e" />
 
-
 # Empire Earth Türkiye Sürümü
 
 Empire Earth Türkiye, **Empire Earth: The Art of Conquest**, **Empire Earth Community** ve **NeoEE Community** temel alınarak geliştirilen, Türkçe yerelleştirmeyi, modern sistem uyumluluğunu, teknik iyileştirmeleri ve topluluk özelliklerini tek paket altında sunan bağımsız ve gayriresmî bir topluluk sürümüdür, Rebellion, Empire Earth Community, NeoEE veya diğer hak sahipleri tarafından geliştirilmemiş, desteklenmemiş ya da onaylanmamıştır.
